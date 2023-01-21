@@ -1,4 +1,4 @@
-# <img src="img/hi.gif" width="30" > Hey! Nice to see you
+# 👋🏻 Hey! Nice to see you
 
 <img src="img/banner.png" width="600" >
 
@@ -11,7 +11,7 @@
   <li> 🐱‍👤 Take a look and feel free to contact me
 </ul>
 
-### <img src="img/squish.gif" width="16" > Things I code with
+### 👨🏻‍💻 Things I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="Javascript" >
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="Jest" >
 </div>
 
-### <img src="img/flop.gif" width="20" > Things I like to use
+### 🤖 Things I like to use
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git" >
@@ -33,3 +33,7 @@
   <img src="https://img.shields.io/badge/-Express-282828?style=flat-square&logo=express&logoColor=white" alt="Express" >
   <img src="https://img.shields.io/badge/-Socket.io-202020?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" >
 </div>
+
+### 🌎 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarenocarlesso)
